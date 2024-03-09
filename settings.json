@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "World_Lords",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "WorldLords.aternos.me",
+    "port": 25653,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "123wll123" 
+    }, 
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "test 1",
+        "test 2",
+        "test 3",
+        "test 4",
+        "test 5",
+        "test 6",
+        "test 7"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000
+  }
+}
